@@ -1,0 +1,19 @@
+{
+  "EncryptedAccessToken": "VjJ8Z3NzaGlwcGVyfDYxNmJiYjYzLTgxYzxxxxxxxxxxYzgyLTE2ZWI3YWJhMzhjZQ",
+  "Errors": ["list of errors"],
+  "Shipper": "test-shipper",
+  "LoadNumber":"BOL12345",
+  "ProNumber": 1234,
+  "Timestamp": "2018-11-14T11:11:57Z",
+  "Scac": "ABCD",
+  "Tags": ["tag1", "tag2"],
+  "MessageType": "LOAD_UPDATE",
+  "UpdatedFields": ["Priority", "StopType"],
+  "IsSuccess": true,
+  "TimezoneShortName": "UTC",
+  "FourKitesLoadId": 348755,
+  "Timezone": "Etc/UTC",
+  "ReferenceNumbers" : ["ref1", "ref2"],
+  "TimezoneOffset": 0
+}
+

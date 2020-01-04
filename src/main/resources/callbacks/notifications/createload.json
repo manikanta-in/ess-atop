@@ -1,0 +1,18 @@
+{
+  "MessageType": "LOAD_CREATION",
+  "IsSuccess": true,
+  "FourKitesLoadId": 1234,
+  "LoadNumber": "BOL12345",
+  "ProNumber": "PRO123",
+  "Scac": "ABCD",
+  "Shipper": "test-shipper",
+  "Tags": ["tag1", "tag2"],
+  "ConsignmentEncryptedAccessToken": "stvdyb8r7gdrfghrthubr7g6dvg",
+  "ReferenceNumbers": ["Ref1", "Ref2"],
+  "EncryptedAccessToken": "stvdyb8r7e6w5crthubr7g6dvg",
+  "Timestamp": "2015-10-01T16:00:00Z",
+  "Timezone": "Etc/UTC",
+  "TimezoneShortName": "UTC",
+  "TimezoneOffset" : 0,
+  "Errors": ["list of errors"]
+}

@@ -1,0 +1,14 @@
+{
+    "MessageType": "LOAD_DELETED",
+    "FourKitesLoadId": 1234,
+    "LoadNumber": "BOL12345",
+    "ProNumber": "PRO123",
+    "Shipper": "test-shipper",
+    "Tags": ["tag1", "tag2"],
+    "ReferenceNumbers": ["Ref1", "Ref2"],
+    "Timestamp": "2015-10-01T16:00:00Z",
+    "Timezone": "Etc/UTC",
+    "TimezoneShortName": "UTC",
+    "TimezoneOffset" : 0
+}
+
