@@ -1,0 +1,8 @@
+heroku apps:info -a fast-beyond-36214
+heroku deploy:jar -j target/poc-micro-service-1-0.0.1-SNAPSHOT.jar --app fast-beyond-36214
+>heroku logs --tail -a fast-beyond-36214
+heroku addons:create heroku-postgresql -a fast-beyond-36214
+heroku addons:create heroku-postgresql -a fast-beyond-36214
+heroku config -a fast-beyond-36214
+postgres://kouqrgfdepjznp:b1f7dcabba6423d1a2355af26e1a11f080f165ec7e81aee8ee8ae2e31eff0649@ec2-174-129-253-169.compute-1.amazo
+naws.com:5432/dfk5l21dcl2mao
