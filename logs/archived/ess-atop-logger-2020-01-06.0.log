@@ -1,0 +1,6 @@
+2020-01-06 01:11:36,801 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-2 housekeeper] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=31m46s823ms749µs704ns).
+2020-01-06 03:53:46,529 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-2 housekeeper] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h3s615ms654µs289ns).
+2020-01-06 11:04:06,536 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-2 housekeeper] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7h10m19s983ms27µs805ns).
+2020-01-06 17:35:50,815 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-2 housekeeper] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s353ms828µs523ns).
+2020-01-06 17:35:51,836 WARN com.sun.jmx.remote.util.ClassLogger [RMI TCP Connection(2292)-127.0.0.1] The server has decided to close this client connection.
+2020-01-06 20:23:15,293 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-2 housekeeper] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=43m18s926ms17µs887ns).
