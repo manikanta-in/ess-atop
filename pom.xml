@@ -148,6 +148,15 @@
 			<artifactId>logback-core</artifactId>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
+		<!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>3.12.0</version>
+		</dependency>
+
+
 
 		<!-- https://mvnrepository.com/artifact/com.vladmihalcea/hibernate-types-52 -->
 		<dependency>
@@ -204,7 +213,7 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	
+
 	<build>
 		<plugins>
 			<plugin>
@@ -253,6 +262,6 @@
 		</repository>
 	</repositories>
 
-	
+
 
 </project>
